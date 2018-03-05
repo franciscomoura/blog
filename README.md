@@ -1,6 +1,6 @@
-# Work daily
-Stuffs for daily work.   
+# Daily work
+Stuffs for daily work support.   
 See wiki pages to get the content.
 
-[Wiki](https://github.com/franciscomoura/work-daily/wiki)
-1.   [MySQL first and last day of the last month](https://github.com/franciscomoura/work-daily/wiki/MySQL-first-and-last-day-of-the-last-month)
+[Wiki](https://github.com/franciscomoura/daily-work/wiki)
+1.   [MySQL first and last day of the last month](https://github.com/franciscomoura/daily-work/wiki/MySQL-first-and-last-day-of-the-last-month)
