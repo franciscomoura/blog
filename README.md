@@ -1,6 +1,9 @@
-# Daily work
-Stuffs for daily work support.   
-See wiki pages to get the content.
+# Blog
+* Posts
+* Bookmarks
+* Stuffs for daily work support.   
+
+**See wiki pages to get in touch with the content.**
 
 [Wiki](https://github.com/franciscomoura/daily-work/wiki)
 1.   [Bookmarks](https://github.com/franciscomoura/daily-work/wiki/Bookmarks)   
